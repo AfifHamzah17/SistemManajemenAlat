@@ -1,0 +1,31 @@
+/* Alat.css */
+.alat-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .alat-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .alat-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  .alat-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .alat-description {
+    font-size: 14px;
+    color: #666;
+  }
+  
